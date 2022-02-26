@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1635291437 source:c:\users\saran\desktop\shapes\main.c
+	<stdio.h>
+	<stdlib.h>
+
